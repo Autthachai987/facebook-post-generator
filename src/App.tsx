@@ -10,7 +10,7 @@ import {
   Sun,
   Moon,
   ClipboardCopy,
-  Lightning
+Zap
 } from 'lucide-react';
 
 interface PostData {
@@ -335,7 +335,7 @@ const App: React.FC = () => {
             {/* Tips */}
             <div className="bg-gradient-to-br from-orange-50 to-yellow-50 dark:from-slate-800 dark:to-slate-800 rounded-2xl p-4 shadow border border-orange-100 dark:border-slate-700">
               <div className="flex items-center gap-3 mb-2">
-                <Lightning className="w-5 h-5 text-yellow-500" />
+                <Zap className="w-5 h-5 text-yellow-500" />
                 <div className="text-sm font-medium text-gray-800 dark:text-gray-100">เคล็ดลับการโพสต์</div>
               </div>
               <ul className="text-sm text-gray-600 dark:text-gray-300 space-y-1">
