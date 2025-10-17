@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facebook-post-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/facebook-post-generator/static/js/main.29091814.js",
+    "static/js/453.b0c92d9c.chunk.js": "/facebook-post-generator/static/js/453.b0c92d9c.chunk.js",
+    "index.html": "/facebook-post-generator/index.html",
+    "main.e6c13ad2.css.map": "/facebook-post-generator/static/css/main.e6c13ad2.css.map",
+    "main.29091814.js.map": "/facebook-post-generator/static/js/main.29091814.js.map",
+    "453.b0c92d9c.chunk.js.map": "/facebook-post-generator/static/js/453.b0c92d9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.29091814.js"
+  ]
+}
